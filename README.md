@@ -10,8 +10,6 @@ yarn add -D @intelie/prettier-config
 
 ```json
 {
-...
 "prettier": "@intelie/prettier-config"
-...
 }
 ```
