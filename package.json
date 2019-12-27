@@ -1,0 +1,18 @@
+{
+  "name": "@intelie/prettier-config",
+  "version": "1.0.0",
+  "description": "Intelie's prettier standard config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/intelie/prettier-config"
+  },
+  "main": "index.js",
+  "keywords": [
+    "prettierconfig",
+    "intelie",
+    "javascript",
+    "formatting"
+  ],
+  "author": "Rafael Mello Campanari (https://twitter.com/@melloc01)",
+  "license": "MIT"
+}
