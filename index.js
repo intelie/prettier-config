@@ -5,7 +5,6 @@ module.exports = {
     "singleQuote": true,
     "trailingComma": "none",
     "bracketSpacing": true,
-    "parser": "babel",
     "useTabs": false,
     "semi": false,
     "proseWrap": "preserve",
