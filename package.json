@@ -1,6 +1,6 @@
 {
   "name": "@intelie/prettier-config",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Intelie's prettier standard config",
   "repository": {
     "type": "git",
